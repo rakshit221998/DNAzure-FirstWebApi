@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qTHpAV6joQfnSmCLAHSW8o/nSfCzqtn5Er5RfyO+CG9rlnhL0dHqeYyWeRSWxslyhJotL86ZKQIB8Zqcqj78Bw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIIT\\source\\repos\\Handson7Demo\\Handson7Demo\\Handson7Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}
